@@ -1,0 +1,35 @@
+//Cracked by Roath
+// /d/shenlong/unique_list.h
+
+mapping unique_list = ([
+        "Ì«¼«Ê®ÈıÊÆ" : "/kungfu/class/wudang/force_book.c",
+        "¾ÉÖñÆ¬" : "/d/shaolin/obj/book-bamboo.c",
+        "±¡¾î" : "/d/shaolin/obj/book-silk.c",
+        "×ÏÏ¼ÃØóÅ" : "/d/huashan/obj/zixia_book.c",
+        "°ô·¨Í¼½â" : "/d/gaibang/obj/stick_book.c",
+        "ÕÈ·¨Í¼½â" : "/d/huashan/obj/staff_book.c",
+        "ÈË²Î¹û" : "/d/wudang/obj/renshen_guo.c",
+        "À¶Óñ²§" : "/d/xingxiu/obj/yaobo.c",
+        "ÉñÄ¾Íõ¶¦" : "/d/xingxiu/obj/muding.c",
+        "½µÄ§èÆ" : "/clone/weapon/xiangmo-chu.c",
+        "ÒĞÌì½£" : "/clone/weapon/yitian-jian.c",
+        "Óñóï" : "/clone/unique/yuxiao.c",
+        "·üÄ§µ¶" : "/clone/unique/fumo-dao.c",
+        "½ğÉß½£" : "/clone/unique/jinshe-jian.c",
+        "öù×ì¼ô" : "/clone/unique/eyujian.c",
+        "öùÎ²±Ş" : "/clone/unique/eweibian.c",
+        "½ğ¸ÕÕÖ" : "/d/shaolin/obj/jingang-zhao.c",
+        "Èíâ¬¼×" : "/d/taohua/obj/ruanwei-jia.c",
+        "ĞşÌúÖØ½£" : "/clone/unique/xuantie-jian.c",
+        "½ğÉß×¶" : "/d/huashan/obj/jinshe-zhui.c",
+        "ÓñÖñÕÈ" : "/clone/unique/yuzhu-zhang.c",
+        "ÎÚ²ÏÒÂ" : "/d/xueshan/obj/wucan-yi.c",
+        "Æß¾øÕë" : "/clone/weapon/qijue.c",
+        "Óã³¦½£" : "/clone/unique/yuchang-jian.c",
+
+        "ÁúÏó°ãÈô¾­" : "/d/qilian/obj/lx-jing.c",
+        "ÉñÕÕ¾­" : "/d/city/npc/obj/shenzhao.c",
+        "Ñªµ¶" : "/clone/unique/xuedao.c",
+        "Ô§µ¶" : "/clone/unique/yuandao.c",
+        "Ñìµ¶" : "/clone/unique/yangdao.c",
+]);

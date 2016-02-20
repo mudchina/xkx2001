@@ -1,0 +1,3 @@
+#/clone/user/user.c
+dbase (["shen":0,"neili":0,"actions":,"cwd":"/","default_actions":,"jiajin":1,"language":"GB","death_count":0,"quest_exp":140,"shen_type":0,"cwf":"/cmds/adm/promote.c","max_qi":200,"max_jing":175,"combat_exp":0,"eff_qi":200,"startroom":"/d/city/xidajie1","eff_jing":175,"pighead":0,"channels":({"chat","rumor","gchat","sys",}),"max_jingli":400,"eff_jingli":300,"per":19,"max_neili":400,"race":"人类","kar":13,"gender":"男性","potential":97,"name":"测试","dex":19,"death_times":0,"birthday":1098903674,"con":21,"int":24,"str":18,"title":"普通百姓","month":1,"behavior_exp":0,"xkd":(["set":1,]),"balance":0,"jing":175,"qi":200,"max_potential":102,"jingli":407,"registered":"no","food":270,"water":270,"age":14,"id":"hxsd","mud_age":216,])
+autoload ({})

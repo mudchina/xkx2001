@@ -1,0 +1,112 @@
+§§指令
+
+§基本指令
+
+这些是ＭＵＤ一般都有的指令，故用英文表示。
+
+系统：help, finge, quit, save, set, unset, who
+alias: alias 〈缩写〉〈全称〉
+passwd: passwd 〈新密码〉
+方向：east(e), west(w), north(n), south(s), northwest(nw)
+      northeast(ne), southwest(sw), southeast(se)
+inventory(i)
+hp
+look(l): look 〈人物、方向、物品〉
+get: get 〈物名〉 from 〈人名〉
+     get 〈物名〉
+     get all
+give: give 〈物名〉 to 〈人名〉
+buy: buy 〈物名〉 from 〈人名〉
+sell: sell 〈物名〉
+      sell 〈物名〉 to 〈人名〉
+drop: drop 〈物名〉
+put: put 〈物名〉
+open: open 〈物名〉
+close: close 〈物名〉
+ask: ask 〈人名〉 about 〈事物〉
+follow: follow 〈人名〉
+fight: fight 〈人名〉   （直到有一方的气降低到一半的比试）
+kill: kill 〈人名〉
+wear: wear 〈物名〉
+remove: remove 〈物名〉
+wield: wield 〈武器名〉
+unwield: unwield 〈武器名〉
+suicide:
+
+shout: shout 〈内容〉
+say: say 〈内容〉
+tell: tell 〈人名〉〈内容〉
+reply: reply 〈内容〉
+
+§特殊指令
+
+这些指令为本游戏所特有，由于无法用英文准确表达，采用
+汉语拼音表示。
+
+bai（拜师）: bai 〈人名〉
+zhu（逐出师门）: zhu 〈人名〉
+shou（收徒）: shou 〈人名〉
+xue（学功夫）: xue 〈人名〉 〈功夫名〉
+du（读书）: du 〈书名〉
+lian（练功）: lian 〈功夫名〉
+fangqi（放弃）: fangqi 〈功夫名〉
+tuna（吐纳）: tuna 〈参数〉   （练精力）
+dazuo（打坐）: dazuo 〈参数〉   （练内力）
+cha（查功夫）: cha 〈人名〉   （查某人的功夫水平）
+jifa（激发）: jifa 〈基本功〉 〈独门武功〉
+jia（加内力）: jia 〈内力点数〉
+yun（运功）: yun 〈内功用途〉
+             yun qi     （用内力恢复气）
+             yun jing   （用精力恢复精）
+qiecuo（切磋）: qiecuo 〈人名〉   （点到为止的比试）
+shou（守卫）: shou 〈方向〉
+tou（偷）: tou 〈人名〉 〈物名〉
+aifu（爱抚）: aifu 〈人名〉
+
+§功夫名、人名、武器名、物名
+
+为避免引起混乱，统一使用汉语拼音。
+为帮助玩家识别，在屏幕上先标出汉字，后面注简略的拼音。
+例如：
+    降龙十八掌(xianglong)
+    打狗棒(dagou)
+    洪七公(Hong Qigong)
+    男孩(nan hai)
+    野狗(ye gou)
+    花雕酒(huadiao)
+    花生米(huasheng)
+（中间断开的拼音在不引起混乱时打前面或后面部分即可）
+
+§个别指令
+
+这是一些在特定地点才用得上的罕用指令，不在帮助文件中列
+出，用拼音、英文均可。这是为了方便玩家的尝试，有的人有
+时不知该用什么英文才合适。这样我们可以把必须让玩家知道
+的指令减少到最低程度。
+
+凡是与解谜有关的东西或动作，如果使用英文，不注无从下手，
+象ＥＳ２那样注了等于提醒大家这些东西或动作有秘密，不妥
+（英文的ＭＵＤ对这些并不特别提醒）。对此我们不注出，玩
+家可以用英文或拼音进行尝试。
+例如：
+
+   “树下面有个洞。”
+
+洞后面不注明(hole)或(dong)，玩家可以尝试用英文或拼音解谜，
+均可接受。例如：enter hole, jin dong都行。
+
+    （书院）“墙角有一个书架。”
+可用：shake shelf, yao shujia
+结果都一样：“‘啪’地一声掉下一本破书(po shu)。”
+然后可以：get shu
+
+     “此处有一棵树。”
+
+可用：pa shu, climb tree
+
+     “墙上挂着一个牌子”
+
+可用：look sign, look paizi
+
+得到药物以后，比如春药，可用：
+   eat chunyao, chi chunyao

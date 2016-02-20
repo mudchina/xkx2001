@@ -1,0 +1,40 @@
+#!/usr/bin/perl
+#
+#	This program check and restart xkx driver if down
+#       By Sdong,2/24/99
+#
+$xkx_home_dir = "/home/xkxfx/";
+$xkx_bin_dir = $xkx_home_dir."mud/bin/";
+$xkx_log_dir = $xkx_home_dir."mud/xkx/log/";
+$xkx_driver = $xkx_bin_dir."driver ".$xkx_bin_dir."config.xkx";
+$restart_delay = 60;
+$running_xkx = $xkx_bin_dir."running_xkx";
+$restart_lock = $xkx_bin_dir."restart.lock";
+$check_xkx = "ps uxww | grep xkx | grep -v grep | grep ".xkx_bin_dir."driver > $running_xkx";
+$backup_log = "mv ".$xkx_log_dir."debug.log ".$xkx_log_dir."debug.log.last";
+
+sub auto_restart
+{
+	if (!open(LOCKFILE, ">$restart_lock")) {
+		return 0;
+	}
+	print LOCKFILE "$$\n";
+	close LOCKFILE;
+	system($check_xkx);
+	if (open(DATAFILE, $running_xkx) && <DATAFILE> ) {
+		close DATAFILE;
+		unlink($running_xkx);
+		unlink($restart_lock);
+		return 1;
+	}
+	system("$backup_log");
+	system("$xkx_driver");
+	unlink $restart_lock;
+	return 1;
+}
+
+do {
+	&auto_restart;
+	sleep($restart_delay);
+} while 2 > 1;
+

@@ -1,0 +1,766 @@
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/npc/publisher.c line 536: Warning: improve_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: skill_death_penalty() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_prepare() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_map() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_prepared() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_mapped() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: prepare_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: map_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: delete_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: set_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_learned() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skills() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/obj/job_server.c line 138: Warning: Non-void functions must return a value.
+clone/obj/job_server.c line 180: Warning: Non-void functions must return a value.
+clone/obj/job_server.c line 195: Warning: Non-void functions must return a value.
+d/shaolin/npc/mu-ren.c line 184: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+d/xueshan/npc/mu-ren.c line 182: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+u/face/workroom.c line 51: parse error
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+u/face/workroom.c line 28: Illegal character constant
+u/face/workroom.c line 28: parse error
+u/face/workroom.c line 28: Illegal character constant
+u/face/workroom.c line 28: parse error
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+u/face/workroom.c line 28: Illegal character constant
+u/face/workroom.c line 28: parse error
+u/face/workroom.c line 35: Illegal character constant
+u/face/workroom.c line 35: parse error
+u/face/workroom.c line 50: Illegal LHS
+u/face/workroom.c line 50: parse error
+u/face/workroom.c line 51: Illegal LHS
+u/face/workroom.c line 51: parse error
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+u/face/workroom.c line 32: Illegal character constant
+u/face/workroom.c line 32: parse error
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+u/face/workroom.c line 7: Undefined variable 'HIW'
+u/face/workroom.c line 7: parse error
+u/face/workroom.c line 7: Undefined variable 'HIW'
+u/face/workroom.c line 7: parse error
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+u/face/workroom.c line 7: Undefined variable 'HIW'
+u/face/workroom.c line 7: parse error
+u/face/workroom.c line 22: parse error
+u/face/workroom.c line 22: parse error
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+u/face/workroom.c line 22: parse error
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+u/face/workroom.c line 32: Undefined variable 'HIW'
+u/face/workroom.c line 32: parse error
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+u/face/workroom.c line 8: Undefined variable 'HIW'
+u/face/workroom.c line 8: parse error
+d/city/npc/xian.c line 125: Warning: Return type doesn't match prototype ( int vs string )
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/city/npc/shan.c line 144: Warning: Return type doesn't match prototype ( int vs string )
+clone/npc/publisher.c line 536: Warning: improve_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: skill_death_penalty() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_prepare() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_map() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_prepared() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_mapped() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: prepare_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: map_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: delete_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: set_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_learned() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skills() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/shaolin/obj/caoliao.c line 22: Warning: short() inherited from both /feature/food.c and /feature/name.c (via /inherit/item/item.c); using the definition in /feature/food.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+kungfu/class/dali/yideng.c line 254: Warning: Return type doesn't match prototype ( void vs int )
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/obj/job_server.c line 138: Warning: Non-void functions must return a value.
+clone/obj/job_server.c line 180: Warning: Non-void functions must return a value.
+clone/obj/job_server.c line 195: Warning: Non-void functions must return a value.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/shaolin/npc/mu-ren.c line 184: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/zhongnan/bingdong.c line 67: Warning: Return type doesn't match prototype ( int vs void )
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/shaolin/npc/mu-ren.c line 184: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+d/zhongnan/bingdong.c line 67: Warning: Return type doesn't match prototype ( int vs void )
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/unique/fan.c line 174: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /inherit/weapon/stick.c); using the definition in /inherit/skill/skill.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/xingxiu/npc/wujiang.c line 43: Warning: improve_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: skill_death_penalty() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_prepare() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_map() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_prepared() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_mapped() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: prepare_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: map_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: delete_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: set_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_learned() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skills() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/xingxiu/obj/tongbo.c line 52: Warning: Value of conditional expression is unused
+d/xingxiu/obj/tongbo.c line 53: Warning: Value of conditional expression is unused
+d/xingxiu/obj/tongbo.c line 54: Warning: Value of conditional expression is unused
+d/xingxiu/obj/tongbo.c line 56: Warning: Value of conditional expression is unused
+d/xingxiu/obj/tongbo.c line 138: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/item/item.c) and /feature/clean_up.c; using the definition in /inherit/item/item.c.
+cmds/wiz/destroy.c line 33: Warning: Non-void functions must return a value.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+clone/obj/job_server.c line 138: Warning: Non-void functions must return a value.
+clone/obj/job_server.c line 180: Warning: Non-void functions must return a value.
+clone/obj/job_server.c line 195: Warning: Non-void functions must return a value.
+d/shaolin/npc/mu-ren.c line 184: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+clone/horse/bailong.c line 60: Warning: Value of conditional expression is unused
+kungfu/class/murong/yuyan.c line 203: Warning: Non-void functions must return a value.
+kungfu/class/murong/yuyan.c line 327: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/char/npc.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/char/npc.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+d/shaolin/npc/mu-ren.c line 184: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+kungfu/class/murong/yuyan.c line 203: Warning: Non-void functions must return a value.
+kungfu/class/murong/yuyan.c line 327: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/char/npc.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/char/npc.c.
+kungfu/class/murong/yuyan.c line 203: Warning: Non-void functions must return a value.
+kungfu/class/murong/yuyan.c line 327: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/char/npc.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/char/npc.c.
+d/zhongnan/caiyao.h line 128: Warning: Value of conditional expression is unused
+d/zhongnan/caiyao.h line 128: Warning: Value of conditional expression is unused
+d/zhongnan/caiyao.h line 128: Warning: Value of conditional expression is unused
+d/zhongnan/dajiaochang.c line 36: Warning: clean_up() inherited from both /feature/clean_up.c (via /feature/sserver.c) and /feature/clean_up.c; using the definition in /feature/sserver.c.
+d/zhongnan/dajiaochang.c line 36: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/room/room.c); using the definition in /feature/clean_up.c.
+d/zhongnan/obj/mitao.c line 23: Warning: short() inherited from both /feature/food.c and /feature/name.c (via /inherit/item/item.c); using the definition in /feature/food.c.
+clone/npc/qiu.c line 625: Warning: Non-void functions must return a value.
+clone/npc/qiu.c line 737: Warning: Non-void functions must return a value.
+clone/npc/qiu.c line 1048: Warning: Return type doesn't match prototype ( int vs void )
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+kungfu/class/huashan/zhongze.c line 235: Warning: Non-void functions must return a value.
+d/huashan/pianting.c line 84: Warning: clean_up() inherited from both /feature/clean_up.c (via /feature/sserver.c) and /feature/clean_up.c (via /inherit/room/room.c); using the definition in /feature/sserver.c.
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+d/city/npc/shan.c line 144: Warning: Return type doesn't match prototype ( int vs string )
+d/huashan/mishi.c line 211: Warning: clean_up() inherited from both /feature/clean_up.c (via /feature/sserver.c) and /feature/clean_up.c (via /inherit/room/room.c); using the definition in /feature/sserver.c.
+kungfu/skill/xiantian-gong/shentong.c line 74: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /feature/sserver.c); using the definition in /feature/clean_up.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: improve_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: skill_death_penalty() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_prepare() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_map() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_prepared() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_mapped() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: prepare_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: map_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: delete_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: set_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_learned() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skills() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+kungfu/skill/hamagong.c line 321: Warning: NewRandom() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: sum() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: scribe_spell() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: conjure_magic() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: cast_spell() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: perform_action() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: exert_function() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: skill_improved() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: type() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: valid_effect() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: create() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/zhongnan/caiyao.h line 128: Warning: Value of conditional expression is unused
+d/zhongnan/caiyao.h line 128: Warning: Value of conditional expression is unused
+d/zhongnan/caiyao.h line 128: Warning: Value of conditional expression is unused
+d/zhongnan/dajiaochang.c line 36: Warning: clean_up() inherited from both /feature/clean_up.c (via /feature/sserver.c) and /feature/clean_up.c; using the definition in /feature/sserver.c.
+d/zhongnan/dajiaochang.c line 36: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/room/room.c); using the definition in /feature/clean_up.c.
+clone/npc/qiu.c line 625: Warning: Non-void functions must return a value.
+clone/npc/qiu.c line 737: Warning: Non-void functions must return a value.
+clone/npc/qiu.c line 1048: Warning: Return type doesn't match prototype ( int vs void )
+kungfu/class/murong/yuyan.c line 203: Warning: Non-void functions must return a value.
+kungfu/class/murong/yuyan.c line 327: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/char/npc.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/char/npc.c.
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+d/emei/leidong.c line 92: Warning: Return type doesn't match prototype ( int vs void )
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/npc/publisher.c line 536: Warning: improve_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: skill_death_penalty() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_prepare() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_map() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_prepared() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_mapped() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: prepare_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: map_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: delete_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: set_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_learned() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skills() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/shaolin/obj/caoliao.c line 22: Warning: short() inherited from both /feature/food.c and /feature/name.c (via /inherit/item/item.c); using the definition in /feature/food.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/zhongnan/fengdong.c line 78: Warning: Return type doesn't match prototype ( int vs void )
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+cmds/wiz/destroy.c line 33: Warning: Non-void functions must return a value.
+d/quanzhou/obj/yadan.c line 23: Warning: short() inherited from both /feature/food.c and /feature/name.c (via /inherit/item/item.c); using the definition in /feature/food.c.
+kungfu/class/huashan/zhongze.c line 235: Warning: Non-void functions must return a value.
+d/huashan/pianting.c line 84: Warning: clean_up() inherited from both /feature/clean_up.c (via /feature/sserver.c) and /feature/clean_up.c (via /inherit/room/room.c); using the definition in /feature/sserver.c.
+kungfu/class/murong/yuyan.c line 203: Warning: Non-void functions must return a value.
+kungfu/class/murong/yuyan.c line 327: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/char/npc.c) and /feature/clean_up.c (via /feature/sserver.c); using the definition in /inherit/char/npc.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/xingxiu/npc/wujiang.c line 43: Warning: improve_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: skill_death_penalty() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_prepare() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_map() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_prepared() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_mapped() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: prepare_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: map_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: delete_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: set_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_learned() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skills() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+cmds/wiz/destroy.c line 33: Warning: Non-void functions must return a value.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/dali/npc/wujiang.c line 46: Warning: improve_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/dali/npc/wujiang.c line 46: Warning: skill_death_penalty() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/dali/npc/wujiang.c line 46: Warning: query_skill_prepare() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/dali/npc/wujiang.c line 46: Warning: query_skill_map() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/dali/npc/wujiang.c line 46: Warning: query_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/dali/npc/wujiang.c line 46: Warning: query_skill_prepared() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/dali/npc/wujiang.c line 46: Warning: query_skill_mapped() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/dali/npc/wujiang.c line 46: Warning: prepare_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/dali/npc/wujiang.c line 46: Warning: map_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/dali/npc/wujiang.c line 46: Warning: delete_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/dali/npc/wujiang.c line 46: Warning: set_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/dali/npc/wujiang.c line 46: Warning: query_learned() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/dali/npc/wujiang.c line 46: Warning: query_skills() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/zhongnan/fengdong.c line 78: Warning: Return type doesn't match prototype ( int vs void )
+d/shaolin/npc/mu-ren.c line 184: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+d/zhongnan/bingdong.c line 67: Warning: Return type doesn't match prototype ( int vs void )
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+cmds/wiz/destroy.c line 33: Warning: Non-void functions must return a value.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+kungfu/skill/taiji-jian.c line 455: Warning: clean_up() inherited from both /feature/clean_up.c (via /feature/sserver.c) and /feature/clean_up.c (via /inherit/skill/skill.c); using the definition in /feature/sserver.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+kungfu/skill/xiantian-gong/shentong.c line 74: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /feature/sserver.c); using the definition in /feature/clean_up.c.
+kungfu/skill/hamagong.c line 321: Warning: NewRandom() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: sum() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: scribe_spell() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: conjure_magic() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: cast_spell() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: perform_action() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: exert_function() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: skill_improved() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: type() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: valid_effect() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: create() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+kungfu/skill/hamagong.c line 321: Warning: NewRandom() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: sum() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: scribe_spell() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: conjure_magic() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: cast_spell() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: perform_action() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: exert_function() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: skill_improved() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: type() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: valid_effect() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: create() inherited from both /inherit/skill/skill.c and /inherit/skill/skill.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+kungfu/skill/hamagong.c line 321: Warning: clean_up() inherited from both /feature/clean_up.c (via /inherit/skill/skill.c) and /feature/clean_up.c (via /inherit/skill/force.c); using the definition in /inherit/skill/skill.c.
+clone/npc/publisher.c line 536: Warning: improve_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: skill_death_penalty() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_prepare() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_map() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_prepared() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skill_mapped() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: prepare_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: map_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: delete_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: set_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_learned() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+clone/npc/publisher.c line 536: Warning: query_skills() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/shaolin/obj/caoliao.c line 22: Warning: short() inherited from both /feature/food.c and /feature/name.c (via /inherit/item/item.c); using the definition in /feature/food.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: improve_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: skill_death_penalty() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_prepare() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_map() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_prepared() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skill_mapped() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: prepare_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: map_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: delete_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: set_skill() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_learned() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+d/xingxiu/npc/wujiang.c line 43: Warning: query_skills() inherited from both /feature/skill.c and /feature/skill.c (via /inherit/char/npc.c); using the definition in /feature/skill.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/obj/job_server.c line 138: Warning: Non-void functions must return a value.
+clone/obj/job_server.c line 180: Warning: Non-void functions must return a value.
+clone/obj/job_server.c line 195: Warning: Non-void functions must return a value.
+d/wudang/donglang2.c line 58: Warning: Return type doesn't match prototype ( int vs void )
+d/shaolin/npc/mu-ren.c line 184: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+d/zhongnan/bingdong.c line 67: Warning: Return type doesn't match prototype ( int vs void )
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+clone/npc/meng-zhu.c line 485: Warning: clean_up() inherited from both /feature/clean_up.c and /feature/clean_up.c (via /inherit/char/npc.c); using the definition in /feature/clean_up.c.
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+
+include/armor.h line 9: Warning: redefinition of #define ARMOR
+

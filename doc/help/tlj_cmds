@@ -1,0 +1,54 @@
+		－－－「侠客行」拖拉机「玩法」－－－
+
+一．　　拖拉机用牌
+
+　　　　与拱猪游戏类似，采取　OKbridge　的表示法，即：
+　　　　花色用： S = 黑桃， H = 红心， D = 方块， C = 梅花
+　　　　大小用： 2, 3, 4, 5, 6, 7, 8, 9, T, J, Q, K, A
+　　　　例如：黑桃９为 S9，红心１０为 HT，以此类推……
+
+　　　　在定主之后，有四种常主，即：副主，正主，小王，大王
+　　　　这里我们分别用 w2, w3, w4, w5 表示
+　　　　例如：副主为　w2，正主为　w3，小王为　w4，大王为　w5
+
+　　　　拖拉机游戏可以用一至四副牌玩，在游戏开始时由桌长决定
+　　　　用几副牌，方法是在人来齐后，桌长键入：use <n> 
+　　　　例如：四副牌则键入：use 4
+	
+二．	指令列表：
+	
+	use <n>
+		在游戏开始时桌长决定用几副牌。example: use 2
+
+	votecard <h|s|d|c>
+		在每一局发完牌后抢亮定主牌。example: votecard h
+
+	pass
+		不打算亮牌或同意当前的主牌。
+
+	deal
+		庄家命令，开始发牌。
+
+	leave
+		离开所在的牌局。
+
+	play <card>
+	出牌。　有三种形式：
+	单出：　example: play d7
+	出对（三）：example: play 2-s7 相当于 s7,s7 对出
+		    example: play 3-w2 相当于 副主,副主,副主三出
+	出拖拉机：example: play 2-2-d4 相当于 d4,d4,d5,d5
+		  example: play 2-3-c4 相当于 c4,c4,c4,c5,c5,c5
+		  example: play 3-2-h7 相当于 h7,h7,h8,h8,h9,h9
+		  play M-N-card 称为M连N对拖拉机。
+
+	lh	(look hand 的缩写)	
+		显示自己手中的牌。		
+
+	sit <dir>
+		加入牌局，如果是第一个加入的人，将被指定为桌长。
+		example: sit south
+
+	另外可以用 l table 和 l scoreboard 得到更多的消息。
+
+Ｂｙ　三生缘　（１９９８．１２．１４）

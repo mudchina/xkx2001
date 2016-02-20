@@ -1,0 +1,3 @@
+#/clone/user/user.c
+dbase (["death_count":0,"per":28,"death_times":0,"quest_exp":140,"language":"GB","kar":14,"behavior_exp":0,"shen_type":0,"shen":0,"channels":({"chat","rumor","gchat",}),"jiajin":1,"pighead":0,"max_jingli":400,"dex":14,"eff_jingli":300,"combat_exp":0,"max_neili":400,"month":1,"potential":97,"max_potential":97,"birthday":1098903588,"jing":175,"max_jing":175,"con":24,"eff_qi":200,"title":"普通百姓","int":22,"qi":200,"str":18,"jingli":400,"gender":"男性","race":"人类","max_qi":200,"name":"测试","food":280,"age":14,"water":280,"balance":0,"eff_jing":175,"default_actions":,"mud_age":0,"registered":"no","actions":,"id":"meier",])
+autoload ({})

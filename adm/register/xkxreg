@@ -1,0 +1,63 @@
+#!/usr/bin/perl
+#
+#	This program runs system jobs for XKX mud.
+#
+#$xkx_dir = "/home/tu/mud/nx/";
+$xkx_dir = "/home/xkxfx/mud/xkx/";
+#$xkx_dir = "/home/tu/perl/";
+$queue_dir = $xkx_dir."queue/";
+$queue_log = $queue_dir."log";
+$register_delay = 60;
+$register_file = $queue_dir."register";
+$register_lock = $queue_dir."register.lock";
+
+sub queue_log
+{
+	local($str) = @_;
+	open(LOGFILE, ">>$queue_log") || die "Cannot open logfile: $!\n";
+	print LOGFILE $str;
+}
+sub mailto
+{
+	local($who, $where, $what) = @_;
+	$message = 
+	"Hi $who, I am glad to inform you that you have successfully registered\n".
+	"an account at our GB-chinese mud ÏÀ¿ÍÐÐ(Xia Ke Xing)\n\n".
+	"The password for your account is : $what\n\n".
+        "After you log in xkx again, remember to use passwd to change your password\n".
+	"Enjoy your time at XKX.\n\nXKX Gaming Group\n";
+	open(MAILOUT, "| /bin/mail -s \"Your password at XKX\" $where");
+	print MAILOUT $message;
+	close(MAILOUT);
+}
+
+
+sub auto_register
+{
+	if (!open(LOCKFILE, ">$register_lock")) {
+		return &queue_log("Cannot open lock file: $!\n");
+	}
+	print LOCKFILE "$$\n";
+	close LOCKFILE;
+	if (!open(DATAFILE, "$register_file")) {
+		unlink($register_lock);
+		return 1;
+	}
+	while (<DATAFILE>) {
+		chop;
+		if (($count = (@str = split(":"))) != 3) {
+			&queue_log("bad data: $_\n");
+		}
+		else {
+			print "confirming $str[0]........\n";
+			&mailto($str[0], $str[1], $str[2]);
+		}
+	}
+	unlink $register_lock;
+	unlink $register_file;
+}
+
+do {
+	&auto_register;
+	sleep($register_delay)
+} while 2 > 1;

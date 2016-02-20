@@ -1,0 +1,3 @@
+#/clone/misc/jinnang.c
+dbase (["id":"jin nang","owner_id":"digg","long":"ÕâÊÇÒ»¸ö¿ÉÒÔÓÃÀ´×°ÐÅµÄ½õÄÒ¡£Äã¿ÉÓÃ(read)À´¶ÁÐÅ£¬ÓÃ(add)ÍùÀïÃæ·ÅÐÅ,ÓÃ(discard)À´¶ªÆúÄ³Ò»·âÐÅ¡£Ä¿Ç°ÀïÃæ×°×ÅÒ»·âÐÅº¯¡£µÚÒ»·âÐÅº¯	¡¾ÊéÐÅ±êÌâ¡¿£ºwawawawawawa	ÁÒÊ¿(digg)Ð´ÓÚÎìÒúÄêÒ»ÔÂÊ®¾ÅÈÕ×ÓÊ±Èý¿Ì","name":"[36m½õÄÒ[37;0m","master_id":"digg",])
+letters ({(["time":"ÎìÒúÄêÒ»ÔÂÊ®¾ÅÈÕ×ÓÊ±Èý¿Ì","title":"wawawawawawa","from":"ÁÒÊ¿(digg)","to":"digg","send_level":3,"text":"ÔÀ²»Èº¶ÔÎÞË«ËµµÀ£ºÄãÎª»ªÉ½ÅÉËù×öµÄ¹±Ï×ÎªÒ»°ÙÎåÊ®¾Åµã¡£ÄãÒª¼ÌÐøÅ¬Á¦£¬ÕùÈ¡ÔÚÏÂ´Î»ªÉ½ÅÉ´ó»áÉÏµÃµ½×î¼ÑÆÀ¶¨¡£ÔÀ²»Èº¶Ô±ù½£ËµµÀ£ºÄãÎª»ªÉ½ÅÉËù×öµÄ¹±Ï×ÎªÁùÊ®°Ëµã¡£ÄãÒª¼ÌÐøÅ¬Á¦£¬ÕùÈ¡ÔÚÏÂ´Î»ªÉ½ÅÉ´ó»áÉÏµÃµ½×î¼ÑÆÀ¶¨¡£> ¡¾°×ÍÕÉ½¡¿Éµµ°(Shadan)£ºme 11640553ÔÀ²»Èº¶ÔÔçÔçËµµÀ£ºÄãÎª»ªÉ½ÅÉËù×öµÄ¹±Ï×ÎªÈý°ÙËÄÊ®Îåµã¡£ÄãÒª¼ÌÐøÅ¬Á¦£¬ÕùÈ¡ÔÚÏÂ´Î»ªÉ½ÅÉ´ó»áÉÏµÃµ½×î¼ÑÆÀ¶¨¡£ÔÀ²»Èº¶Ô±ù½£ËµµÀ£ºÄãÎª»ªÉ½ÅÉËù×öµÄ¹±Ï×ÎªÒ»°ÙÁãÒ»µã¡£ÄãÒª¼ÌÐøÅ¬Á¦£¬ÕùÈ¡ÔÚÏÂ´Î»ªÉ½ÅÉ´ó»áÉÏµÃµ½×î¼ÑÆÀ¶¨¡£",]),(["time":"ÎìÒúÄêÒ»ÔÂÊ®¾ÅÈÕ×ÓÊ±Èý¿Ì","from":"ÁÒÊ¿(digg)","title":"ÄãÊÇÁÒÊ¿Âð,ÎÒºÃÏ²»¶ÄãÑ½","to":"digg","send_level":2,"text":"ÔÀ²»Èº¶ÔÎÞË«ËµµÀ£ºÄãÎª»ªÉ½ÅÉËù×öµÄ¹±Ï×ÎªÒ»°ÙÎåÊ®¾Åµã¡£ÄãÒª¼ÌÐøÅ¬Á¦£¬ÕùÈ¡ÔÚÏÂ´Î»ªÉ½ÅÉ´ó»áÉÏµÃµ½×î¼ÑÆÀ¶¨¡£;ÔÀ²»Èº¶Ô±ù½£ËµµÀ£ºÄãÎª»ªÉ½ÅÉËù×öµÄ¹±Ï×ÎªÁùÊ®°Ëµã¡£ÄãÒª¼ÌÐøÅ¬Á¦£¬ÕùÈ¡ÔÚÏÂ´Î»ªÉ½ÅÉ´ó»áÉÏµÃµ½×î¼ÑÆÀ¶¨¡£;> ¡¾°×ÍÕÉ½¡¿Éµµ°(Shadan)£ºme 11640553;ÔÀ²»Èº¶ÔÔçÔçËµµÀ£ºÄãÎª»ªÉ½ÅÉËù×öµÄ¹±Ï×ÎªÈý°ÙËÄÊ®Îåµã¡£ÄãÒª¼ÌÐøÅ¬Á¦£¬ÕùÈ¡ÔÚÏÂ´Î»ªÉ½ÅÉ´ó»áÉÏµÃµ½×î¼ÑÆÀ¶¨¡£;ÔÀ²»Èº¶Ô±ù½£ËµµÀ£ºÄãÎª»ªÉ½ÅÉËù×öµÄ¹±Ï×ÎªÒ»°ÙÁãÒ»µã¡£ÄãÒª¼ÌÐøÅ¬Á¦£¬ÕùÈ¡ÔÚÏÂ´Î»ªÉ½ÅÉ´ó»áÉÏµÃµ½×î¼ÑÆÀ¶¨¡£",]),})

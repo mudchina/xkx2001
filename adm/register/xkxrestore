@@ -1,0 +1,50 @@
+#!/usr/bin/perl
+#
+#	This program runs restore player's data from backup for xkx mud.
+#       By Sdong, 11/19/98
+#
+$xkx_dir = "/home/xkxfx/mud/xkx/";
+$queue_dir = $xkx_dir."queue/";
+$queue_log = $queue_dir."restore.log";
+$restore_delay = 60;
+$restore_file = $queue_dir."restore";
+$restore_lock = $queue_dir."restore.lock";
+
+sub restore
+{
+	local($who, $when) = @_;
+        system("/home/xkxfx/bin/restore $who $when");
+#	system("/bin/gzip -dc /home/xkxfx/Backup/usrdat-$when.tgz | /bin/tar xvf - user/$who.o login/$who.o");
+
+}
+
+
+sub auto_restore
+{
+	if (!open(LOCKFILE, ">$restore_lock")) {
+		return 0;
+	}
+	print LOCKFILE "$$\n";
+	close LOCKFILE;
+	if (!open(DATAFILE, "$restore_file")) {
+		unlink($restore_lock);
+		return 1;
+	}
+	while (<DATAFILE>) {
+		chop;
+		if (($count = (@str = split(":"))) != 2) {
+		}
+		else {
+			print "restoring $str[0] from backup $str[1]........\n";
+			&restore($str[0], $str[1]);
+		}
+	}
+	unlink $restore_lock;
+	unlink $restore_file;
+	return 1;
+}
+
+do {
+	&auto_restore;
+	sleep($restore_delay)
+} while 2 > 1;

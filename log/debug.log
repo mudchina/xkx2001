@@ -1,0 +1,93 @@
+----------------------------------------------------------------------------
+侠客行 (MudOS v22pre11) starting up on Microsoft Windows 95 - Thu Oct 28 03:02:53 2004
+
+
+Can't find "mudos", ignoring old binaries.
+Try invoking the driver using the full pathname.
+System Error: init_addr_server: connect:unknow error 10061
+include/globals.h line 103: Warning: redefinition of #define ROOM
+
+include/globals.h line 103: Warning: redefinition of #define ROOM
+
+
+Loading preloaded files ...
+
+执行时段错误：*Object cannot be loaded during compilation.
+
+程式：adm/single/simul_efun.c 第 12 行
+物件: adm/single/simul_efun
+呼叫来自：adm/single/master.c 的 preload() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 log_error() 第 124 行，物件： adm/single/master
+呼叫来自：adm/single/simul_efun.c 的 wizardp() 第 12 行，物件： adm/single/simul_efun
+include/globals.h line 103: Warning: redefinition of #define ROOM
+
+
+执行时段错误：*Object cannot be loaded during compilation.
+
+程式：adm/single/simul_efun.c 第 12 行
+物件: adm/single/simul_efun
+呼叫来自：adm/single/master.c 的 preload() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 log_error() 第 124 行，物件： adm/single/master
+呼叫来自：adm/single/simul_efun.c 的 wizardp() 第 12 行，物件： adm/single/simul_efun
+include/globals.h line 103: Warning: redefinition of #define ROOM
+
+
+执行时段错误：*Object cannot be loaded during compilation.
+
+程式：adm/single/simul_efun.c 第 12 行
+物件: adm/single/simul_efun
+呼叫来自：adm/single/master.c 的 preload() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 log_error() 第 124 行，物件： adm/single/master
+呼叫来自：adm/single/simul_efun.c 的 wizardp() 第 12 行，物件： adm/single/simul_efun
+include/globals.h line 103: Warning: redefinition of #define ROOM
+
+
+执行时段错误：*Object cannot be loaded during compilation.
+
+程式：adm/single/simul_efun.c 第 12 行
+物件: adm/single/simul_efun
+呼叫来自：adm/single/master.c 的 preload() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 log_error() 第 124 行，物件： adm/single/master
+呼叫来自：adm/single/simul_efun.c 的 wizardp() 第 12 行，物件： adm/single/simul_efun
+include/globals.h line 103: Warning: redefinition of #define ROOM
+
+
+执行时段错误：*Object cannot be loaded during compilation.
+
+程式：adm/single/simul_efun.c 第 12 行
+物件: adm/single/simul_efun
+呼叫来自：adm/single/master.c 的 preload() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 log_error() 第 124 行，物件： adm/single/master
+呼叫来自：adm/single/simul_efun.c 的 wizardp() 第 12 行，物件： adm/single/simul_efun
+include/globals.h line 103: Warning: redefinition of #define ROOM
+
+
+执行时段错误：*Object cannot be loaded during compilation.
+
+程式：adm/single/simul_efun.c 第 12 行
+物件: adm/single/simul_efun
+呼叫来自：adm/single/master.c 的 preload() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 log_error() 第 124 行，物件： adm/single/master
+呼叫来自：adm/single/simul_efun.c 的 wizardp() 第 12 行，物件： adm/single/simul_efun
+include/globals.h line 103: Warning: redefinition of #define ROOM
+
+
+执行时段错误：*Object cannot be loaded during compilation.
+
+程式：adm/single/simul_efun.c 第 12 行
+物件: adm/single/simul_efun
+呼叫来自：adm/single/master.c 的 preload() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 CATCH() 第 104 行，物件： adm/single/master
+呼叫来自：adm/single/master.c 的 log_error() 第 124 行，物件： adm/single/master
+呼叫来自：adm/single/simul_efun.c 的 wizardp() 第 12 行，物件： adm/single/simul_efun
+include/globals.h line 103: Warning: redefinition of #define ROOM
+
+Initializations complete.
+
+Accepting connections on port 8888.

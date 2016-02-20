@@ -1,0 +1,914 @@
+明教npc详细名单:
+
+明教：
+
+1.
+name:		扬逍 ("yang xiao", "yang")
+title:		明教光明左使
+long:		他就是明教的光明左使，和范遥合称逍遥二仙的杨逍。
+		他身着一身白衫，虽然已是中年，但看上去还十分英俊潇洒。
+age:		43
+attitute:	peaceful
+shen:		3000000
+family:		34
+attribute:	27,5,5000,300,7000,400,9000,300,5000,1000,3000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		xiaoyao-piaopiao  逍遥飘飘步
+		parry		qiankun-danuoyi   乾坤大挪移
+		sword		xiaoyao-jianfa	  逍遥剑法
+		strike		xiaoyao-zhangfa   逍遥掌法
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(300,20,S_skills)
+		prepare_skill("strike","xiaoyao-zhangfa")
+obj:		
+		changpao
+		sword
+
+
+2.
+name:		范遥 ("fan yao", "fan")
+title:		明教光明右使
+family:		34
+long:		一个长发批肩的头陀，身材魁伟，满面横七竖八的都是
+		刀疤，本来相貌以全不可辩。他头发作红棕之色，似非
+		中土人物。
+age:		45
+attitute:	peaceful
+shen:		3000000
+attribute:	28,4,5000,300,7000,400,9000,300,5000,1000,3000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		xiaoyao-piaopiao  逍遥飘飘步
+		parry		xiaoyao-zhangfa   逍遥掌法
+		sword		xiaoyao-jianfa	  逍遥剑法
+		strike		xiaoyao-zhangfa   逍遥掌法
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(300,20,S_skills)
+		prepare_skill("strike","xiaoyao-zhangfa")
+obj:
+		changpao
+
+
+
+3.
+name:		黛绮丝 ("dai qisi", "dai")
+nickname:	紫衫龙王
+title:		明教护教法王
+family:		35
+long:		一个肤如凝脂、杏眼桃腮的美艳妇人，容光照人，端丽难言。
+		她就是明教四法王之首的紫衫龙王。
+age:		34
+attitute:	peaceful
+shen:		2000000
+attribute:	27,5,3000,300,5000,400,6000,300,4000,1000,2000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		jinhua-zhang	  金花杖
+		throwing	jinhua-biao	  金花镖
+		staff		jinhua-zhang	  金花杖
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+				beauty		  驻颜术
+
+		Set_Npcskills(200,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+		staff
+
+4.
+name:		殷天正 ("yin tianzheng", "yin")
+nickname:	白眉鹰王
+title:		明教护教法王
+family:		35
+long:		一个身材魁伟的秃顶老者，长眉胜雪，垂下眼角，鼻子钩曲，
+		有若鹰嘴。
+age:		50
+attitute:	peaceful
+shen:		2000000
+attribute:	27,5,3000,300,5000,400,6000,300,4000,1000,2000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		tianying-aoxiang  天鹰翱翔
+		parry		yingzhua-qinna	  鹰爪擒拿手
+		sword		baihong-jianfa    白虹剑法
+		hand		yingzhua-qinna 	  鹰爪擒拿手
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(200,20,S_skills)
+		prepare_skill("hand","yingzhua-qinna")
+obj:
+		changpao
+
+5.
+name:		谢逊 ("xie xun", "xie")
+nickname:	金毛狮王
+title:		明教护教法王
+family:		35
+long:		他身材魁伟异常，满头黄发，散披肩头，眼睛碧油油的发光，
+		威风凛凛，真如天神天将一般。
+age:		45
+attitute:	peaceful
+shen:		2000000
+attribute:	27,5,3000,300,5000,400,6000,300,4000,1000,2000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		qishang-quan	  七伤拳
+		blade		bagua-dao	  八卦刀
+		cuff		qishang-quan	  七伤拳
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(200,20,S_skills)
+		prepare_skill("cuff","qishang-quan")
+obj:
+		changpao
+
+6.
+name:		韦一笑 ("wei yixiao", "wei")
+nickname:	青翼蝠王
+title:		明教护教法王
+family:		35
+long:		这就是明教护教法王之一的青翼蝠王。他身披青条子白色长袍，身材高
+		瘦，脸色略为苍白。此人轻功极高，当世无匹。
+age:		40
+attitute:	peaceful
+shen:		2000000
+attribute:	27,5,3000,300,5000,400,6000,300,4000,1000,2000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		qingfu-shenfa	  青蝠身法
+		parry		hanbing-mianzhang 寒冰绵掌
+		blade		bagua-dao	  八卦刀
+		strike		hanbing-mianzhang 寒冰绵掌
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(200,20,S_skills)
+		prepare_skill("strike","hanbing-mianzhang")
+obj:
+		changpao
+
+7.
+name:		冷谦 ("leng qian", "leng")
+title:		明教五散人
+family:		36
+long:		此人是明教五散人之一的冷谦，外号"铁面先生"。他平生极少说话，
+		惜字如金。
+age:		38
+attitute:	peaceful
+shen:		1000000
+attribute:	25,5,2000,300,4000,400,4000,300,3000,1000,1000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		duoming-bi	  夺命判官笔
+		???		duoming-bi	  夺命判官笔
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(120,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+
+obj:
+		changpao
+		panguan-bi
+8.
+name:		彭莹玉 ("peng yingyu", "peng")
+title:		明教五散人
+family:		36
+long:		此人身穿白色僧衣，是个四十来岁的高瘦和尚。他笑眯眯的，
+		极富智慧。
+age:		35
+attitute:	peaceful
+shen:		1000000
+attribute:	25,5,2000,300,4000,400,4000,300,3000,1000,1000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		dafeng-yunfei	  大风云飞手
+		hand		dafeng-yunfei	  大风云飞手
+		blade		bagua-dao	  八卦刀
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(120,20,S_skills)
+		prepare_skill("hand","dafeng-yunfei")
+obj:
+		changpao
+
+9.
+name:		周颠 ("zhou dian", "zhou")
+title:		明教五散人
+family:		36
+long:		
+age:		36
+attitute:	peaceful
+shen:		1000000
+attribute:	25,5,2000,300,4000,400,4000,300,3000,1000,1000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		bagua-dao	  八卦刀
+		blade		bagua-dao	  八卦刀
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(120,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+		blade
+
+10.
+name:		张中 ("zhang zhong", "zhang")
+title:		明教五散人
+family:		36
+long:		
+age:		37
+attitute:	peaceful
+shen:		1000000
+attribute:	25,5,2000,300,4000,400,4000,300,3000,1000,1000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		duoming-bi	  夺命判官笔
+		???		duoming-bi	  夺命判官笔
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(120,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+		panguan-bi
+
+11.
+name:		说不得 ("shuo bude", "shuo")
+title:		明教五散人
+family:		36
+long:		
+age:		38
+attitute:	peaceful
+shen:		1000000
+attribute:	25,5,2000,300,4000,400,4000,300,3000,1000,1000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		riyue-quan 	  日月拳
+		blade		bagua-dao	  八卦刀
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(120,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+
+12.
+name:		闻苍松 ("wen cangsong", "wen")
+title:		明教巨木旗掌旗使
+family:		37
+long:		
+age:		36
+attitute:	peaceful
+shen:		1000000
+attribute:	23,5,2000,300,4000,400,4000,300,3000,1000,700000,50000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		shenghuo-quan	  圣火拳
+		???		duoming-bi	  夺命判官笔
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(100,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+
+13.
+name:		唐洋 ("tang yang", "tang")
+title:		明教洪水旗掌旗使
+family:		37
+long:		
+age:		35
+attitute:	peaceful
+shen:		1000000
+attribute:	23,5,2000,300,4000,400,4000,300,3000,1000,700000,50000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		bagua-dao	  八卦刀
+		blade		bagua-dao	  八卦刀
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(100,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+		blade
+
+
+14.
+name:		颜垣 ("yan yuan", "yan")
+title:		明教厚土旗掌旗使
+family:		37
+long:		
+age:		35
+attitute:	peaceful
+shen:		1000000
+attribute:	23,5,2000,300,4000,400,4000,300,3000,1000,700000,50000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		bagua-dao	  八卦刀
+		blade		bagua-dao	  八卦刀
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(100,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+		blade
+
+15.
+name:		辛然 ("xin ran", "xin")
+title:		明教烈火旗掌旗使
+family:		37
+long:		
+age:		35
+attitute:	peaceful
+shen:		1000000
+attribute:	23,5,2000,300,4000,400,4000,300,3000,1000,700000,50000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		duoming-bi	  夺命判官笔
+		???		duoming-bi	  夺命判官笔
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(100,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+		panguan-bi
+
+16.
+name: 		庄铮 ("zhuang zheng", "zhuang")
+title:		明教锐金旗掌旗使
+family:		37
+long:		
+age:		35
+attitute:	peaceful
+shen:		1000000
+attribute:	23,5,2000,300,4000,400,4000,300,3000,1000,700000,50000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		bagua-dao	  八卦刀
+		blade		bagua-dao	  八卦刀
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(100,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+		blade
+
+17.
+name:		吴劲草 ("wu jincao", "wu", "jincao")
+title:		明教锐金旗掌旗副使
+family:		37
+long:		
+age:		35
+attitute:	peaceful
+shen:		1000000
+attribute:	23,5,2000,300,4000,400,4000,300,3000,1000,700000,50000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		duoming-bi	  夺命判官笔
+		???		duoming-bi	  夺命判官笔
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(100,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+
+18.
+name:		朱元璋 ("zhu yuanzhang", "zhu")
+title:		明教弟子
+family:		38
+long:		
+age:		32
+attitute:	peaceful
+shen:		300000
+attribute:	20,5,1500,300,3000,400,2000,300,1500,1000,300000,50000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		duoming-bi	  夺命判官笔
+		???		duoming-bi	  夺命判官笔
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(50,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+
+19.
+name:		徐达 ("xu da", "xu")
+title:		明教弟子
+family:		38
+long:		
+age:		30
+attitute:	peaceful
+shen:		300000
+attribute:	20,5,1500,300,3000,400,2000,300,1500,1000,300000,50000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		bagua-dao	  八卦刀
+		blade		bagua-dao	  八卦刀
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(50,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+		blade
+
+20.
+name:		常遇春 ("chang yuchun", "chang")
+title:		明教弟子
+family:		38
+long:		
+age:		28
+attitute:	peaceful
+shen:		300000
+attribute:	20,5,1500,300,3000,400,2000,300,1500,1000,300000,50000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		bagua-dao	  八卦刀
+		blade		bagua-dao	  八卦刀
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(50,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+		blade
+
+21.
+name:		胡青牛 ("hu qingniu", "hu")
+nickname:	蝶谷仙医
+title:		明教弟子
+family:		37
+long:		
+age:		40
+attitute:	peaceful
+shen:		300000
+attribute:	25,5,2000,300,4000,400,4000,300,3000,1000,800000,50000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		bagua-dao	  八卦刀
+		blade		bagua-dao	  八卦刀
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(100,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+
+
+22.
+name:		明教守卫 ("mingjiao shouwei", "shouwei")
+family:		39
+long:		他是一名明教的山门守卫，一身结实的肌肉显出不凡的武功家底。
+		他头系红色头巾，身穿灰色明教圣袍，圣袍上锈着一个大红火焰。
+age:		28
+attitute:	peaceful
+shen:		10000
+attribute:	20,1,1000,300,500,100,1000,100,1000,100,100000,10000
+skills:
+		force
+		dodge
+		parry
+		blade
+		sword
+
+		Set_Npcskills(30,10,S_skills)
+obj:
+		changpao
+		blade or sword
+
+
+天鹰教：
+
+23.
+name:		李天垣 ("li tianyuan", "li")
+title:		天鹰教天市堂堂主
+family:		2
+long:		
+age:		42
+attitute:	peaceful
+shen:		1000000
+attribute:	25,5,2000,300,4000,400,4000,300,3000,1000,1000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		tianying-aoxiang  天鹰翱翔
+		parry		yingzhua-qinna	  鹰爪擒拿手
+		hand		yingzhua-qinna	  鹰爪擒拿手
+		sword		baihong-jianfa	  白虹剑法
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(120,20,S_skills)
+		prepare_skill("hand","yingzhua-qinna")
+obj:
+		changpao
+
+24.
+name:		殷素素 ("yin susu", "yin")
+title:		天鹰教紫微堂堂主
+family:		2
+long:		
+age:		28
+attitute:	peaceful
+shen:		1000000
+attribute:	25,5,2000,300,4000,400,4000,300,3000,1000,1000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		tianying-aoxiang  天鹰翱翔
+		parry		baihong-jianfa	  白虹剑法
+		hand		yingzhua-qinna	  鹰爪擒拿手
+		sword		baihong-jianfa	  白虹剑法
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(120,20,S_skills)
+		prepare_skill("hand","yingzhua-qinna")
+obj:
+		changpao
+		sword
+
+
+25.
+name:		殷野王 ("yin yewang", "yin")
+title:		天鹰教天微堂堂主
+family:		2
+long:		一双眼睛犹如冷电，精光四射，气势慑人，
+age:		33
+attitute:	peaceful
+shen:		1000000
+attribute:	25,5,2000,300,4000,400,4000,300,3000,1000,1000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		tianying-aoxiang  天鹰翱翔
+		parry		yingzhua-qinna	  鹰爪擒拿手
+		hand		yingzhua-qinna	  鹰爪擒拿手
+		sword		baihong-jianfa	  白虹剑法
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(120,20,S_skills)
+		prepare_skill("hand","yingzhua-qinna")
+obj:
+		changpao
+
+
+26.
+name:		白龟寿 ("bai guishou", "bai")
+title:		天鹰教玄武坛坛主
+family:		3
+long:		
+age:		34
+attitute:	peaceful
+shen:		500000
+attribute:	23,5,1500,300,3000,400,3000,300,2000,1000,500000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		tianying-aoxiang  天鹰翱翔
+		parry		yingzhua-qinna	  鹰爪擒拿手
+		hand		yingzhua-qinna	  鹰爪擒拿手
+		sword		baihong-jianfa	  白虹剑法
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(80,20,S_skills)
+		prepare_skill("hand","yingzhua-qinna")
+obj:
+		changpao
+
+
+27.
+name:		常金鹏 ("chang jinpeng", "chang")
+title:		天鹰教朱雀坛坛主
+family:		3
+long:		
+age:		34
+attitute:	peaceful
+shen:		500000
+attribute:	23,5,1500,300,3000,400,3000,300,2000,1000,500000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		tianying-aoxiang  天鹰翱翔
+		parry		baihong-jianfa	  白虹剑法
+		hand		yingzhua-qinna	  鹰爪擒拿手
+		sword		baihong-jianfa	  白虹剑法
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(80,20,S_skills)
+		prepare_skill("hand","yingzhua-qinna")
+obj:
+		changpao
+		sword
+
+
+28.
+name:		封坛主 ("feng tanzhu", "feng", "tanzhu")
+title:		天鹰教神蛇坛坛主
+family:		3
+long:		
+age:		35
+attitute:	peaceful
+shen:		500000
+attribute:	23,5,1500,300,3000,400,3000,300,2000,1000,500000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		tianying-aoxiang  天鹰翱翔
+		parry		baihong-jianfa	  白虹剑法
+		hand		yingzhua-qinna	  鹰爪擒拿手
+		sword		baihong-jianfa	  白虹剑法
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(80,20,S_skills)
+		prepare_skill("hand","yingzhua-qinna")
+obj:
+		changpao
+		sword
+
+
+29.
+name:		程坛主 ("cheng tanzhu", "cheng", "tanzhu")
+title:		天鹰教白虎坛坛主
+family:		3
+long:		
+age:		34
+attitute:	peaceful
+shen:		500000
+attribute:	23,5,1500,300,3000,400,3000,300,2000,1000,500000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		tianying-aoxiang  天鹰翱翔
+		parry		yingzhua-qinna	  鹰爪擒拿手
+		hand		yingzhua-qinna	  鹰爪擒拿手
+		sword		baihong-jianfa	  白虹剑法
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(80,20,S_skills)
+		prepare_skill("hand","yingzhua-qinna")
+obj:
+		changpao
+
+
+30.
+name:		殷无福 ("yin wufu", "yin")
+title:		天鹰教弟子
+family:		4
+long:		
+age:		25
+attitute:	peaceful
+shen:		300000
+attribute:	22,5,1500,300,3000,400,3000,300,2000,1000,300000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		tianying-aoxiang  天鹰翱翔
+		parry		baihong-jianfa	  白虹剑法
+		hand		yingzhua-qinna	  鹰爪擒拿手
+		sword		baihong-jianfa	  白虹剑法
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(60,20,S_skills)
+		prepare_skill("hand","yingzhua-qinna")
+obj:
+		changpao
+		sword
+
+
+31.
+name:		殷无禄 ("yin wulu", "yin")
+title:		天鹰教弟子
+family:		4
+long:		
+age:		25
+attitute:	peaceful
+shen:		300000
+attribute:	22,5,1500,300,3000,400,3000,300,2000,1000,300000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		tianying-aoxiang  天鹰翱翔
+		parry		baihong-jianfa	  白虹剑法
+		hand		yingzhua-qinna	  鹰爪擒拿手
+		sword		baihong-jianfa	  白虹剑法
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(60,20,S_skills)
+		prepare_skill("hand","yingzhua-qinna")
+obj:
+		changpao
+		sword
+
+
+32.
+name:		殷无寿 ("yin wushou", "yin")
+title:		天鹰教弟子
+family:		4
+long:		
+age:		25
+attitute:	peaceful
+shen:		300000
+attribute:	22,5,1500,300,3000,400,3000,300,2000,1000,300000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		tianying-aoxiang  天鹰翱翔
+		parry		baihong-jianfa	  白虹剑法
+		hand		yingzhua-qinna	  鹰爪擒拿手
+		sword		baihong-jianfa	  白虹剑法
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(60,20,S_skills)
+		prepare_skill("hand","yingzhua-qinna")
+obj:
+		changpao
+		sword
+
+33.
+name:		天鹰教守卫 ("tianying shouwei", "shouwei")
+family:		5
+long:		
+age:		28
+attitute:	peaceful
+shen:		10000
+attribute:	20,1,1000,300,500,100,1000,100,1000,100,100000,10000
+skills:
+		force
+		dodge
+		parry
+		sword
+		blade
+
+		Set_Npcskills(30,10,S_skills)
+obj:
+		changpao
+		sword or blade
+
+
+其它:
+
+34.
+name:		流云使 ("liuyun shi", "liuyun", "shi")
+title:		波斯三使
+long:		
+age:		28
+attitute:	peaceful
+shen:		2000000
+attribute:	25,5,4000,300,5000,400,7000,300,5000,1000,2000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		qiankun-danuoyi	  乾坤大挪移
+		blade		shenghuo-ling	  圣火令
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(200,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+		shenghuo-ling
+
+
+35.
+name:		辉月使 ("huiyue shi", "huiyue", "shi")
+title:		波斯三使
+long:		
+age:		26
+attitute:	peaceful
+shen:		2000000
+attribute:	25,5,4000,300,5000,400,7000,300,5000,1000,2000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		qiankun-danuoyi	  乾坤大挪移
+		sword		shenghuo-ling	  圣火令
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(200,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+		shenghuo-ling
+
+
+36.
+name:		妙风使 ("miaofeng shi", "miaofeng", "shi")
+title:		波斯三使
+long:		
+age:		27
+attitute:	peaceful
+shen:		2000000
+attribute:	25,5,4000,300,5000,400,7000,300,5000,1000,2000000,100000
+skills:
+		force		shenghuo-xuanming 圣火玄冥功
+		dodge		wuxing-bu	  五行步
+		parry		qiankun-danuoyi	  乾坤大挪移
+		blade		shenghuo-ling	  圣火令
+		strike		riyue-shenzhang	  日月神掌
+		cuff		shenghuo-quan	  圣火拳
+				guangming-xinfa   光明心法
+
+		Set_Npcskills(200,20,S_skills)
+		prepare_skill("cuff","shenghuo-quan")
+		prepare_skill("strike","riyue-shenzhang")
+obj:
+		changpao
+		shenghuo-ling
